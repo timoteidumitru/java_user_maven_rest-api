@@ -1,4 +1,4 @@
-package com.users.api.services;
+package com.users.api.service;
 
 import com.users.api.exceptions.DuplicateUserException;
 import com.users.api.exceptions.UserNotFoundExceptionToDeleteException;
